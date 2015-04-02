@@ -53,6 +53,8 @@ import java.util.regex.Pattern;
  </pre>
  * 
  * @author shilad
+ *
+ * Edited by Marcio Porto for COMP 124 - iTunes Lab
  */
 public class ITunesReader {
 	private static final Pattern REGEX = Pattern.compile(".*<key>([^<]+)</key><.*?>([^<]+)</.*?>"); 

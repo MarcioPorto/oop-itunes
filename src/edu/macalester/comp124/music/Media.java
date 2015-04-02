@@ -4,6 +4,8 @@ package edu.macalester.comp124.music;
  * A media object in an iTunes library that may be a podcast, song, video, etc.
  * 
  * @author shilad
+ *
+ * Edited by Marcio Porto for COMP 124 - iTunes Lab
  */
 
 public class Media {

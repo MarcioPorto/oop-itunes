@@ -5,6 +5,8 @@ package edu.macalester.comp124.musicfinished;
  * podcast, song, video, etc.
  * 
  * @author shilad
+ *
+ * Edited by Marcio Porto for COMP 124 - iTunes Lab 
  */
 public class Media {
 	
